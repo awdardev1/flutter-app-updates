@@ -1,6 +1,7 @@
 {
-  "latest_version": "1.0.1",
-  "build_number": 1,
-  "download_url": "https://example.com/app_v1.0.2_build6.apk",
-  "changelog": "Minor bug fixes and performance improvements."
+    "latest_version": "1.0.3",
+    "build_number": 8,
+    "download_url": "https://drive.google.com/file/d/1RDX-PMgBv_wUGObUeUbwewlHsBAEQepV/view?usp=sharing",
+    "token": "puncher-ainex@1.0.1+1",
+    "changelog": "Added private update channel support."
 }
