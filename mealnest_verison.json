@@ -3,5 +3,5 @@
   "build_number": 3,
   "isForce": false,
   "download_url": "https://drive.google.com/uc?export=download&id=1JhXK1iJipHkymKIyiUy6vs0LC7gXU2P2",
-  "changelog": "Enhance build workflow with debug keystore and arm64 support"
+  "changelog": "Test laptop build"
 }
