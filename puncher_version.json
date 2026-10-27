@@ -1,7 +1,7 @@
 {
     "latest_version": "1.0.2",
-    "build_number": 7,
-    "is_force": true,
+    "build_number": 6,
+    "is_force": false,
     "download_url": "https://drive.google.com/file/d/1I_ddeDqHDZkl-TllarwoPu17Ca9fCE19/view?usp=sharing",
     "changelog": "Bug fix"
 }
