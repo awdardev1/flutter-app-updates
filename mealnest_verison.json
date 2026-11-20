@@ -3,5 +3,5 @@
   "build_number": 3,
   "isForce": false,
   "download_url": "https://drive.google.com/uc?export=download&id=1SUYGhCRH3fFNrAuMXd67n9Ryqdehwgz3",
-  "changelog": "Test laptop build"
+  "changelog": "Upgrade Java version from 17 to 21 in workflow"
 }
